@@ -1,0 +1,12 @@
+body {margin:0px;background-color: #FEFAE0}
+.navBar {display:flex; margin-top: 0px; height: auto; width:100%; display:flex; justify-content: center; align-items:center; background-color: #553922;}
+.navBar svg {width:60px; padding:15px; float:left;}
+.navBar h1 {padding:0px; font-family: 'Fira Sans', sans-serif; color: #FEFAE0; font-size: 30px;}
+.navBar2 {display:flex; width:100%; display:flex; justify-content: center; align-items:center; background-color: #875C35;}
+.navBar2 a {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; text-decoration: none;}
+.paginaEscolhida {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; font-weight:bolder; text-decoration: none;}
+.historia {width:80%; display:flex; border-radius:10px; border-width:1px; border-color:#d3cfb9; border-style: solid; padding:30px; margin:auto; margin-top:20px; flex-direction: column;}
+.historia h1 {margin-top:-5px; font-size:42px; color:#553922}
+.historia img {width:600px; border-radius:10px; border-style: solid; border-width:2px; border-color:#d1ceb7}
+.historia p {color:#553922; font-family: 'Fira Sans', sans-serif; font-size: 20px;}
+h1 {font-family: 'Fira Sans', sans-serif;}

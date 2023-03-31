@@ -1,0 +1,14 @@
+body {margin:0px;background-color: #FEFAE0}
+.navBar {display:flex; margin-top: 0px; height: auto; width:100%; display:flex; justify-content: center; align-items:center; background-color: #553922;}
+.navBar svg {width:60px; padding:15px; float:left;}
+.navBar h1 {padding:0px; font-family: 'Fira Sans', sans-serif; color: #FEFAE0; font-size: 30px;}
+.navBar2 {display:flex; width:100%; display:flex; justify-content: center; align-items:center; background-color: #875C35;}
+.navBar2 a {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; text-decoration: none;}
+.paginaEscolhida {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; font-weight:bolder; text-decoration: none;}
+.envioCurriculo {width:70%; display:flex; justify-content:center; flex-direction: column; margin:auto; margin-top:20px; padding:20px; border-radius: 8px; border-style: solid; border-width: 1px; border-color: #d8d5be;}
+.envioCurriculo h1 {font-size:42px; margin-bottom:-10px}
+.envioCurriculo h2 {font-family: 'Fira Sans', sans-serif; font-weight: normal;}
+.label {font-family: 'Fira Sans', sans-serif; font-weight:bolder; color:#553922}
+.input {width:600px; font-family: 'Fira Sans', sans-serif; color:#553922; background-color: rgba(0, 0, 0, 0.11); border-radius:12px; border-style:solid; border-color: #b6b3a0; border-width:1px; padding:10px}
+#submit {width:623px; font-family: 'Fira Sans', sans-serif; color:#553922; background-color: rgba(0, 0, 0, 0.11); border-radius:12px; border-style:solid; border-color: #b6b3a0; border-width:1px; padding:10px}
+h1 {font-family: 'Fira Sans', sans-serif; color:#553922}

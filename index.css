@@ -1,0 +1,19 @@
+body {margin:0px;background-color: #FEFAE0}
+.navBar {display:flex; margin-top: 0px; height: auto; width:100%; display:flex; justify-content: center; align-items:center; background-color: #553922;}
+.navBar svg {width:60px; padding:15px; float:left;}
+.navBar h1 {padding:0px; font-family: 'Fira Sans', sans-serif; color: #FEFAE0; font-size: 30px;}
+.navBar2 {display:flex; width:100%; display:flex; justify-content: center; align-items:center; background-color: #875C35;}
+.navBar2 a {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; text-decoration: none;}
+.paginaEscolhida {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; font-weight:bolder; text-decoration: none;}
+.container1 {display:flex; justify-content: center; align-items:center; background-color: #553922;}
+.divisoria1 {margin:auto; padding:10px; display:flex; justify-content: space-between; align-items:center; width:80%}
+#container1texto {width:40%}
+#container1texto h1{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#container1texto p{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#container1img {width: 40%; float:right}
+#container1img img {width:300px}
+.produtos {margin-top:20px; width:70%; display:flex; justify-content:space-around; align-items:center; margin:auto;}
+.containerprodutos {margin-top:20px; width:25%; background-color: #FEFAE0; border-style: solid; border-width: 2px; border-radius:10px; border-color: #e7e4ce; padding:40px}
+.containerprodutos h1 {color:#553922}
+.containerprodutos p {font-family: 'Fira Sans', sans-serif; color:#553922}
+h1 {font-family: 'Fira Sans', sans-serif;}

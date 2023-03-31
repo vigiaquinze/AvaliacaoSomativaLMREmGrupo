@@ -1,0 +1,29 @@
+body {margin:0px;background-color: #FEFAE0}
+.navBar {display:flex; margin-top: 0px; height: auto; width:100%; display:flex; justify-content: center; align-items:center; background-color: #553922;}
+.navBar svg {width:60px; padding:15px; float:left;}
+.navBar h1 {padding:0px; font-family: 'Fira Sans', sans-serif; color: #FEFAE0; font-size: 30px;}
+.navBar2 {display:flex; width:100%; display:flex; justify-content: center; align-items:center; background-color: #875C35;}
+.navBar2 a {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; text-decoration: none;}
+.paginaEscolhida {padding:20px; color: #FEFAE0; font-size:15px; font-family: 'Fira Sans', sans-serif; font-weight:bolder; text-decoration: none;}
+.containersobre {display:flex; justify-content: center; align-items:center; background-color: #283618; padding:30px}
+.divisoriasobre {margin:auto; padding:10px; display:flex; justify-content: space-between; align-items:center; width:80%}
+#containersobretexto {width:40%}
+#containersobretexto h1{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#containersobretexto p{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#containersobreimg {width: 40%; float:right}
+#containersobreimg svg {width:150px; padding:20px}
+.containersobre2 {display:flex; justify-content: center; align-items:center; background-color: #606C38; padding:30px}
+.divisoriasobre2 {margin:auto; padding:10px; display:flex; justify-content: space-between; flex-direction:row-reverse; align-items:center; width:80%}
+#containersobretexto2 {width:40%}
+#containersobretexto2 h1{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#containersobretexto2 p{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#containersobreimg2 {width: 40%; float:left}
+#containersobreimg2 img {width:300px}
+.containersobre3 {display:flex; justify-content: center; align-items:center; background-color: #283618; padding:30px}
+.divisoriasobre3 {margin:auto; padding:10px; display:flex; justify-content: space-between; align-items:center; width:80%}
+#containersobretexto3 {width:40%}
+#containersobretexto3 h1{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#containersobretexto3 p{font-family: 'Fira Sans', sans-serif; color: #FEFAE0}
+#containersobreimg3 {width: 40%; float:left}
+#containersobreimg3 img {width:300px}
+h1 {font-family: 'Fira Sans', sans-serif;}
